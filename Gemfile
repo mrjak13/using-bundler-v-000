@@ -7,5 +7,5 @@ gem "awesome_print", "~>1.8", :git => "git://github.com/awesome-print/awesome_pr
 
 
 group :development do
-  gem "pry", :group => ":development"
+  gem "pry", :group => :development
 end
